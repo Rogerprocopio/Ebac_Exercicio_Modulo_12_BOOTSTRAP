@@ -1,0 +1,11 @@
+#botao-enviar{
+    margin-top: 12px;
+}
+
+#container-form{
+    margin-top: 24px;
+    background: linear-gradient(120deg,#ffe53bd8, #ff2525da);
+    padding: 18px;
+    border-radius: 28px;
+}
+
